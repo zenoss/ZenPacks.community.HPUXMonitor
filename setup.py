@@ -5,7 +5,7 @@
 NAME = 'ZenPacks.community.HPUXMonitor'
 VERSION = '2.2'
 AUTHOR = 'Mike Albon'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.HPUXMonitor']
 INSTALL_REQUIRES = []
